@@ -16,13 +16,13 @@ Dell Latitude 5501黑苹果EFI
 | 网卡     | 更换为 [DW1820A](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html) |
 
 
-##功能
-蓝牙：正常
-网卡：正常
-WiFi：正常
-声卡：正常
-HDMI：外接无显示
-USB：正常
-触摸板：触摸正常，按键无效
-雷电三：未测试
+##功能  
+蓝牙：正常  
+网卡：正常  
+WiFi：正常  
+声卡：正常  
+HDMI：外接无显示  
+USB：正常  
+触摸板：触摸正常，按键无效  
+雷电三：未测试  
 
