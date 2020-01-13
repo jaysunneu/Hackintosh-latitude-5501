@@ -16,7 +16,7 @@ Dell Latitude 5501黑苹果EFI
 | 网卡     | 更换为 [DW1820A](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html) |
 
 
-##功能  
+## 功能  
 蓝牙：正常  
 网卡：正常  
 WiFi：正常  
